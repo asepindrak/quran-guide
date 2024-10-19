@@ -19,7 +19,8 @@ Let us embark on this journey together, and may Allah guide us both!
 ## Installation
 1. Install ollama
 2. `ollama run adens/quran-guide`
-3. 
+
+   
 ***Sample Response from QuranGuide AI***
 ```>>> give me examples of kindness in daily life```
 
