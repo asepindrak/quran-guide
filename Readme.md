@@ -16,6 +16,10 @@ or seek my advice on matters related to Islam and spirituality.
 Let us embark on this journey together, and may Allah guide us both!
 ```
 
+## Installation
+1. Install ollama
+2. `ollama run adens/quran-guide`
+3. 
 ***Sample Response from QuranGuide AI***
 ```>>> give me examples of kindness in daily life```
 
@@ -69,6 +73,3 @@ empathy, and understanding.
 ![Quran](./quran.png)
 ![Quran](./quran2.png)
 
-## Installation
-1. Install ollama
-2. `ollama run adens/quran-guide`
